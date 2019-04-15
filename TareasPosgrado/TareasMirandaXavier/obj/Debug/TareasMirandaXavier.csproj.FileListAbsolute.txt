@@ -1,0 +1,7 @@
+C:\Users\Xavier Miranda\source\repos\TareasPosgrado\TareasMirandaXavier\bin\Debug\TareasMirandaXavier.exe.config
+C:\Users\Xavier Miranda\source\repos\TareasPosgrado\TareasMirandaXavier\bin\Debug\TareasMirandaXavier.exe
+C:\Users\Xavier Miranda\source\repos\TareasPosgrado\TareasMirandaXavier\bin\Debug\TareasMirandaXavier.pdb
+C:\Users\Xavier Miranda\source\repos\TareasPosgrado\TareasMirandaXavier\obj\Debug\TareasMirandaXavier.csproj.CoreCompileInputs.cache
+C:\Users\Xavier Miranda\source\repos\TareasPosgrado\TareasMirandaXavier\obj\Debug\TareasMirandaXavier.exe
+C:\Users\Xavier Miranda\source\repos\TareasPosgrado\TareasMirandaXavier\obj\Debug\TareasMirandaXavier.pdb
+C:\Users\Xavier Miranda\source\repos\TareasPosgrado\TareasMirandaXavier\obj\Debug\TareasMirandaXavier.csprojAssemblyReference.cache
